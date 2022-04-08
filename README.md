@@ -1,4 +1,4 @@
-# vue-27
+# VueJS-1
 
 ## Project setup
 ```
